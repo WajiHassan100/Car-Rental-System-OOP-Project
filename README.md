@@ -1,4 +1,3 @@
-# Car-Rental-System-OOP-Project
 # Car Rental System – OOP Project 🚗
 
 A Java-based car rental system that demonstrates core Object-Oriented Programming (OOP) concepts and a fully functional GUI using Swing.
