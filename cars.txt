@@ -1,0 +1,16 @@
+23,Toyota,Corolla,2021,White,18000.0,false
+24,Suzuki,Swift,2018,Silver,9500.0,false
+25,Kia,Picanto,2020,Red,13000.0,false
+72,Suzuki,2005,2020,Red,8000.0,false
+27,Ford,F-150,2017,Blue,27000.0,false
+28,BMW,X5,2023,Grey,55000.0,false
+29,Audi,A4,2020,White,40000.0,false
+30,Chevrolet,Malibu,2019,Maroon,16000.0,false
+31,Mercedes,C200,2022,Black,48000.0,false
+32,Nissan,Sentra,2016,Green,7500.0,false
+12,Honda,2000,2023,Pink,20000.0,false
+33,Toyota,Fortuner,2022,White,70000.0,false
+34,Suzuki,Cultus,2021,Red,15000.0,false
+35,Honda,Civic,2023,Black,35000.0,false
+36,Hyundai,Tucson,2020,Silver,40000.0,false
+37,Atlas,Revo,2019,Blue,60000.0,true
